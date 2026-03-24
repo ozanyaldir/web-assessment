@@ -28,6 +28,15 @@
     display: none;
 }
 
+.explore-menu-list-item img:hover {
+    transform: scale(1.1);
+}
+
+.explore-menu-list-item:hover p {
+    color: #262626;
+    font-weight: 500;
+}
+
 .explore-menu-list-item img{
     width: 7.5vw;
     min-width: 80px;
